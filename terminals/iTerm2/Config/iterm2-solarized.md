@@ -9,6 +9,7 @@
     
 Get the iTerm color settings
 
+- [Libern Solarized Dark theme](https://raw.githubusercontent.com/libern/ide-setup/master/terminals/iTerm2/Color Presets/Libern Solarized Dark.itermcolors)
 - [Solarized Dark theme](https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Dark.itermcolors)
 - [Solarized Light theme](https://raw.githubusercontent.com/altercation/solarized/master/iterm2-colors-solarized/Solarized%20Light.itermcolors)
 - [More themes @ iterm2colorschemes](http://iterm2colorschemes.com/)
