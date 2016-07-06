@@ -26,6 +26,10 @@ More info here: https://github.com/robbyrussell/oh-my-zsh
     
 When the installation is done, edit `~/.zshrc` and set `ZSH_THEME="agnoster"`
 
+## Change Oh My Zsh Theme
+
+[Bullet Train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme)
+
 ## Install a patched font
 
 - [Meslo](https://github.com/Lokaltog/powerline-fonts/blob/master/Meslo/Meslo%20LG%20M%20DZ%20Regular%20for%20Powerline.otf) (the one in the screenshot). Click "view raw" to download the font.
