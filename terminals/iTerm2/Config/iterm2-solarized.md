@@ -52,6 +52,12 @@ Things like
 
 can be found in the section below.
 
+## History Search
+
+
+[zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+
+
 ## Auto suggestions (for oh-my-zsh)
 
 ![Auto suggestions](http://i66.tinypic.com/b5i9dv.png)
