@@ -54,9 +54,16 @@ can be found in the section below.
 
 ## History Search
 
-
 [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
 
+Then add into file `~/.zshrc`, somewhere below the line that read source `$ZSH/oh-my-zsh.sh`.
+
+```
+bindkey "^[[A" history-substring-search-up
+bindkey "^[[B" history-substring-search-down
+```
+
+Save and fire up a new terminal or run `source ~/.zshrc` in the current terminal.
 
 ## Auto suggestions (for oh-my-zsh)
 
